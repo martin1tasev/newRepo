@@ -1,4 +1,10 @@
 Pesho is the famous person in SoftUni
+<<<<<<< HEAD
 
 Update with Tortoise
 Updating with new line here.
+=======
+ 
+Updating with Bash
+Update with Tortoise
+>>>>>>> e027851d926541f31316bd1937b077109e8d2478
