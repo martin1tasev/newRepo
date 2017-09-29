@@ -1,2 +1,0 @@
-Pesho is the famous person in SoftUni
-Updating with Bash
